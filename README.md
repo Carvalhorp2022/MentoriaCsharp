@@ -1,2 +1,4 @@
 # MentoriaCsharp
 Mentoria Csharp
+
+#partiu
